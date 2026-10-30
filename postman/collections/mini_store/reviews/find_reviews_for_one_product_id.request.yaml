@@ -1,0 +1,4 @@
+$kind: http-request
+url: GET http://localhost:3000/reviews/product/
+method: GET
+order: 3000

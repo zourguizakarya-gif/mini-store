@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/products/delete_product/2
+method: DELETE
+order: 6000

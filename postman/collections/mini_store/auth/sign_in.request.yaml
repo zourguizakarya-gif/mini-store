@@ -1,0 +1,13 @@
+$kind: http-request
+url: http://localhost:3000/auth/signin
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"email\": \"www.zak_zou@yahoo.com\",\r
+
+    \    \"password\":\"1234567\"\r
+
+    }"
+order: 2000

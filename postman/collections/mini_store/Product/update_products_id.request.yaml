@@ -1,0 +1,17 @@
+$kind: http-request
+url: http://localhost:3000/products/update_product/1
+method: PATCH
+body:
+  type: json
+  content: "{\r
+
+    \  \"price\": 145000,\r
+
+    \  \"stock\": 16\r
+
+    }"
+auth:
+  type: bearer
+  credentials:
+    token: ""
+order: 5000

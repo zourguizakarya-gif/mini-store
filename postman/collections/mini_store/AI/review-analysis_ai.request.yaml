@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/ai/review-analysis
+method: POST
+order: 3000

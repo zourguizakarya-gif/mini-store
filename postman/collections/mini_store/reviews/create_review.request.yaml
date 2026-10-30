@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/reviews/create_review
+method: POST
+order: 1000

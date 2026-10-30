@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/orders/create_order
+method: POST
+order: 1000

@@ -1,0 +1,4 @@
+$kind: http-request
+url: PATCH http://localhost:3000/orders/cancel_order/1
+method: PATCH
+order: 6000

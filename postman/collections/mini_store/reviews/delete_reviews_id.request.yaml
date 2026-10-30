@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/reviews/delete_review/1
+method: DELETE
+order: 6000

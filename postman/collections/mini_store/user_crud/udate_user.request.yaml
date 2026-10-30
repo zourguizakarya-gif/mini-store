@@ -1,0 +1,17 @@
+$kind: http-request
+url: http://localhost:3000/users/update_user/
+method: PATCH
+body:
+  type: text
+  content: "{\r
+
+    \    \"email\": \"www.zak_zou@yahoo.com\",\r
+
+    \    \"password\":\"1234567\"\r
+
+    }"
+auth:
+  type: bearer
+  credentials:
+    token: ""
+order: 2000

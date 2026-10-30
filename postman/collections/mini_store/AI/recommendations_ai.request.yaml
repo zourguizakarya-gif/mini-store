@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:3000/ai/recommendations
+method: POST
+order: 2000
