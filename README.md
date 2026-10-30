@@ -215,11 +215,11 @@ Collections cover authentication, users, products, orders, reviews, and AI featu
 npm install
 ```
 
-### 3. Configure environment variables
+### 2. Configure environment variables
 
 Create a `.env` file and provide your PostgreSQL credentials, JWT secret, and Groq API key.
 
-### 4. Start the application
+### 3. Start the application
 
 Development mode:
 
